@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    padding: 20px;
+    background-color:  #F2D4C2;
+    border-radius: 500px;
+    margin-top: 30px;
+}
+body {
+    height: 100%;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/973/593/original/cute-chocolate-background-free-vector.jpg);
+  }
+  #fondo{
+    border-radius: 5px;
+  }
